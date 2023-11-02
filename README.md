@@ -1,6 +1,6 @@
 ﻿# Modal to Verify discord
 + [ วิธีตั้งค่า EMBED เบื้องต้นง่ายๆ ]
-+ [ติดต่อ](https://discord.gg/AypUvAdDHs)
++ [ติดต่อ](https://discord.gg/vJpkGmZb5w)
 
 ### how to install and run 
  + Req: [NodeJS](https://nodejs.org/en/download)
