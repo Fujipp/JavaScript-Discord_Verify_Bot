@@ -25,32 +25,32 @@ module.exports = {
   // setting ส่วนแรกคือหน้ากด
   main: {
     button_msg: "กดปุ่มเพื่อลงทะเบียนไวริส", // ข้อความปุ่ม
-    button_emoji: "✅", // อิโมจิเท่านั้น สามารถใช้อิโมจิพิเศษได้ ตัวอย่าง `:784488608782483477:`
+    button_emoji: " ", // อิโมจิเท่านั้น สามารถใช้อิโมจิพิเศษได้ ตัวอย่าง `:784488608782483477:`
     button_style: ButtonStyle.Danger, //จำเป็นต้องมี ButtonStyle อยุ่ข้างหน้าเสมอ มีทั้งหมด 4สี ได้แก่ Primary สีน้ำเงิน , Secondary = เทา , Success = เขียว ,Danger =แดง 
-    title: "test", // ชื่อหัวข้อ
-    iconURL: "https://cdn.discordapp.com/attachments/988800716212674570/1082762974520946758/logo.png", // รูปไอคอน
-    Description: "**FF \n\n กรุณากรอกข้อมูลให้ครบ [มิเช่นนั้น] ทางเราจะไม่รับเรื่องดังที่สมัครเข้ามา**", // คำอธิบาย
-    colors: "#ff0003", // #a7e7ff -> [R, G, B] // 12942973
-    image: "https://cdn.discordapp.com/attachments/988800716212674570/1082762974520946758/logo.png", // รูปหลัก
+    title: " ", // ชื่อหัวข้อ
+    iconURL: " ", // รูปไอคอน
+    Description: " ", // คำอธิบาย
+    colors: " ", // #a7e7ff -> [R, G, B] // 12942973
+    image: " ", // รูปหลัก 
   },
   //ชื่อของหัวข้อหลังกดปุ่ม
   modals: {
-    title: "test"
+    title: " "
   },
   //setting หลังกรอกข้อมูลเสร็จ
   reply_submit: {
-    title: "test", // ชื่อหัวข้อ
-    iconURL: "https://cdn.discordapp.com/attachments/988800716212674570/1082762974520946758/logo.png", // รูปไอคอน
+    title: " ", // ชื่อหัวข้อ
+    iconURL: " ", // รูปไอคอน
     colors: "#41ff00", // #a7e7ff -> [R, G, B] // 12942973
     Description: "**คุณได้ทำการยืนยันเป็นที่เรียบร้อย รอทาง**"
   },
   reply_admin: {
-    title: "test", // ชื่อหัวข้อ
-    iconURL: "https://cdn.discordapp.com/attachments/988800716212674570/1082762974520946758/logo.png", // รูปไอคอน
+    title: " ", // ชื่อหัวข้อ
+    iconURL: " ", // รูปไอคอน
   }
 };
  ```
  
  
  + อัพเดทเก็บข้อมูล และ การรันใหม่ จะไมส่งข้อมูลซ้ำที่เดิมแก้ไข ERROR
- ผู้แก้ไขข้อมูล **BALLZAZA#4481**
+ ผู้แก้ไขข้อมูล **FUJIPP**
